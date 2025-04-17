@@ -1,0 +1,10 @@
+🌟 fractales classiques
+
+    c = -0.4 + 0.6i : Dendrites nébuleuses (structure branchue infinie)
+    c = -0.8 + 0.156i : San Marco fractal (spirale en forme de basilique)
+    c = -0.7269 + 0.1889i : Disque de Douady (symétrie circulaire parfaite)
+
+🌀 Spirales hypnotiques
+
+    c = 0.285 + 0.01i : Spirale logarithmique dorée
+    c = 0.355 + 0.355i : Tourbillon cubique

@@ -1,0 +1,5 @@
+➕ Fractale emblématique générée par la formule zₙ₊₁ = zₙ² + c (avec z₀ = 0).
+🔗 Lié aux ensembles de Julia : un point c appartient à Mandelbrot si l'ensemble Julia associé est connexe.
+🌀 Structure : cardioïde centrale + disques/bourgeons périodiques.
+🧮 Exemple de complexité issue de règles simples (théorie du chaos).
+📐 Défini dans le plan complexe, étudié dès 1918 (Julia/Fatou).
